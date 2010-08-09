@@ -1,0 +1,10 @@
+--- !map:HashWithIndifferentAccess
+
+label_name: Myer
+name: Zimmermann
+web_name: zimmerman
+contact_name: Joe Bloggs
+address: 410 Crown St
+state: NSW
+postcode: 2010
+country: Australia
